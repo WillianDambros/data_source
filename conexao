@@ -1,0 +1,6 @@
+conexao <- RPostgres::dbConnect(RPostgres::Postgres(),
+                                dbname = "#############",
+                                host = "##############",
+                                port = "##############",
+                                user = "################",
+                                password = "#################")
