@@ -2,8 +2,10 @@ CAGED (Cadastro Geral de Empregados e Desempregados / Governo Federal) - ftp://f
 IBGE (Instituto Brasileiro de Geografia e Estatística) - ftp.ibge.gov.br (usar fillezilla para acessar)
 COMEXSTAT (Estatísticas de Comércio Exterior em Dados Abertos / Governo Federal) - https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta
 ANM (Agência Nacional de Mineração / Governo federal) - https://app.anm.gov.br/dadosabertos/
-SEFAZ (Secretaria de Estado de Fazenda de Mato Grosso / Governo Estadual) - https://www5.sefaz.mt.gov.br/-/6847228-receita
+SEFAZ (Secretaria de Estado de Fazenda de Mato Grosso / Governo Estadual) - https://www5.sefaz.mt.gov.br/informacoes?c=6846775&e=18929753
 CNPJ (Governo Federal) - https://arquivos.receitafederal.gov.br/dados/cnpj/
+REDESIM (Governo Federal) - paste0("https://estatistica.redesim.gov.br/","tempos-abertura-redesim/exportar/solicitacoes?mes=", meses[i], "&ano=", anos[i])
+
 
 Palavras Utéis (Microdados | Transparência | API)
 
