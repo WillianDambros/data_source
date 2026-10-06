@@ -5,7 +5,7 @@ ANM (Agência Nacional de Mineração / Governo federal) - https://app.anm.gov.b
 SEFAZ (Secretaria de Estado de Fazenda de Mato Grosso / Governo Estadual) - https://www5.sefaz.mt.gov.br/informacoes?c=6846775&e=18929753
 CNPJ (Governo Federal) - #https://arquivos.receitafederal.gov.br/dados/cnpj/# https://arquivos.receitafederal.gov.br/index.php/s/gn672Ad4CF8N6TK?dir=/Dados/Cadastros
 REDESIM (Governo Federal) - paste0("https://estatistica.redesim.gov.br/","tempos-abertura-redesim/exportar/solicitacoes?mes=", meses[i], "&ano=", anos[i])
-
+IPEA (https://www.ipeadata.gov.br/api/)
 
 Palavras Utéis (Microdados | Transparência | API)
 
